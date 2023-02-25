@@ -1,1 +1,1 @@
-# xG
+Explainable expected goal
